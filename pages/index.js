@@ -1,3 +1,7 @@
-export default function Home() {
-  return <h1>Olá Kelly</h1>;
+function Home() {
+  return <h1>Ola mundo</h1>
 }
+function teste(){
+  console.log ('teste');
+ }
+export default Home;
